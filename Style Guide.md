@@ -1,5 +1,6 @@
 # Dialogue
 All dialogue subtitles are capitalized
+
 Dialogue subtitles are formatted as such
 
 	Kirito: IT WAS FULL OF EMOTIONS THAT <br />SCARE AND CONFUSE ME!
@@ -10,6 +11,7 @@ unless the line of dialogue is from the same person as the previous line of dial
 
 # Hearing impaired
 All hearing imparied subtitles are not lowercase with the exception of character names
+
 Hearing impaired subtitles are formatted as such
 
 	( beeping, whirring )
