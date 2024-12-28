@@ -7,10 +7,10 @@ Dialogue subtitles are formatted as such
 
 	(Example from Abridged S01E06)
 
-unless the line of dialogue is from the same person as the previous line of dialogue, in which case the speaker's name is ommited
+unless the line of dialogue is from the same person as the previous line of dialogue, in which case the speaker's name is omitted
 
 # Hearing impaired
-All hearing imparied subtitles are not lowercase with the exception of character names
+All hearing impaired subtitles are not lowercase with the exception of character names
 
 Hearing impaired subtitles are formatted as such
 
@@ -20,7 +20,7 @@ or they may also be formatted like this
 
 	Kirito: ( gasps )
 
-The important thing is they are with parenthises, lowercase, and with spaces.
+The important thing is they are with parentheses, lowercase, and with spaces.
 
 # Unnamed characters
 Unnamed characters are to be named as such
