@@ -30,6 +30,9 @@ Some of the subtitles were fully incorrect from what the characters were saying.
 - Sword Art Online Alternative: Gun Gale Online Season 2 (2024) - Same as the Progressive movies
 - SAO Abridged (2013-Current) - Not an official series but I will still be fixing the subtitles as they add jokes that get in the way of the subtitles being used as an accessibility tool (Love ya SWE, but cut that out)
 
+# What is currently being worked on?
+I'm currently working on Season 1 (they're extra terrible, so it'll be a while) as well as doing a second pass of Season 2
+
 # Some problems with this archive
 These subtitles are only for dialogue and sound effects. They do not contain song lyrics or text translation (aka "Signs and Songs"). I will likely add these in the future.
 
